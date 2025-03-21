@@ -8,16 +8,16 @@ The DHS API has data available for over 4500 indicators, but this dashboard focu
    * [GADM data (version 4.1), 2022.](https://gadm.org/)
 
   ### Packages used
-            - [Shiny](https://shiny.posit.co/)
-            - [ShinyWidgets](https://shinywidgets.posit.co/)
-            - [ShinySwatch](https://shinyswatch.posit.co/)
-            - [GeoPandas](https://geopandas.org/)
-            - [Matplotlib](https://matplotlib.org/)
-            - [Plotly](https://plotly.com/)
-            - [Pandas](https://pandas.pydata.org/)
-            - [Numpy](https://numpy.org/)
-            - [Requests](https://docs.python-requests.org/en/master/)
-            - [JSON](https://docs.python.org/3/library/json.html)
+   * [Shiny](https://shiny.posit.co/)
+   * [ShinyWidgets](https://shinywidgets.posit.co/)
+   * [ShinySwatch](https://shinyswatch.posit.co/)
+   * [GeoPandas](https://geopandas.org/)
+   * [Matplotlib](https://matplotlib.org/)
+   * [Plotly](https://plotly.com/)
+   * [Pandas](https://pandas.pydata.org/)
+   * [Numpy](https://numpy.org/)
+   * [Requests](https://docs.python-requests.org/en/master/)
+   * [JSON](https://docs.python.org/3/library/json.html)
 
 ## Additional Projects Under Construction
 I will be adding some more example projects here soon. Visit my [LinkedIn](https://www.linkedin.com/in/anne-bernier-42338017/) for descriptions of past projects and roles.  All of my past (public) work was on usaid.idea.gov, which is not currently available.
