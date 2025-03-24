@@ -23,6 +23,6 @@ The DHS API has data available for over 4500 indicators, but this dashboard focu
    * Visit https://abernier.shinyapps.io/demographic_health_surveys_of_ethiopia/ to view the dashboard
 
 ## Additional Projects Under Construction
-I will be adding some more example projects here soon. Visit my [LinkedIn](https://www.linkedin.com/in/anne-bernier-42338017/) for descriptions of past projects and roles.  All of my past (public) work was on usaid.idea.gov, which is not currently available.
+I will be adding some more example projects here soon. Visit my [LinkedIn](https://www.linkedin.com/in/anne-bernier-42338017/) for descriptions of past projects and roles.  All of my past public work was on USAID Data Services' [IDEA](https://idea.usaid.gov/), which is not currently available.
 
 
