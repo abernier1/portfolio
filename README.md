@@ -22,7 +22,15 @@ The DHS API has data available for over 4500 indicators, but this dashboard focu
    ### View the dashboard
    * Visit https://abernier.shinyapps.io/demographic_health_surveys_of_ethiopia/ to view the dashboard
 
+## International Data and Economic Analysis (IDEA) Data Products
+During my time as Team Lead for Economic and Social Tools and Analysis on the IDEA team, I led numerous projects at the intersection of data science and international development, some of which were published on USAID Data Services' [IDEA](https://idea.usaid.gov/), which is not currently available. Archive.org links are provided below but some functionality may no longer be available.
+
+* I designed and led the programming team that created the [**DRG Data Portraits**](https://web.archive.org/web/20240421025609/https:/idea.usaid.gov/drg#tab-metrics:-country-data-portraits), which we generated in Python for 130 countries and 8 sectors, for over 1,000 total automated reports updated annually for each sector and country that USAID's Democracy, Rights and Governance team was interested in. These reports were commonly printed for briefing packets before TDY or meetings with stakeholders.
+* I automated the creation of the popular [**IDEA country profiles**](https://web.archive.org/web/20240421025609/https:/idea.usaid.gov/analytical-products) in Python to accelerate delivery schedule and decrease the level of effort per update. We updated these reports at least twice per year. USAID users commonly printed these profiles briefing packets before TDY or meetings with stakeholders.
+* I led the creation of web-based data tools, including the [**DRG Third Party Indicators Tool**](https://web.archive.org/web/20240421025609/https:/idea.usaid.gov/drg#tab-metrics:-third-party-indicators) and [**Financing Sustainable Development Dashboard**](https://web.archive.org/web/20240421025609/https:/idea.usaid.gov/fsd). These tools were co-designeed with the USAID subject matter experts to create standard context monitoring and performance indicators across the 130+ countries that USAID worked in. 
+
+
 ## Additional Projects Under Construction
-I will be adding some more example projects here soon. Visit my [LinkedIn](https://www.linkedin.com/in/anne-bernier-42338017/) for descriptions of past projects and roles.  All of my past public work was on USAID Data Services' [IDEA](https://idea.usaid.gov/), which is not currently available.
+I will be adding some more example projects here soon. Visit my [LinkedIn](https://www.linkedin.com/in/anne-bernier-42338017/) for descriptions of past projects and roles.  All of my past public work was on USAID Data Services' [IDEA](https://idea.usaid.gov/), which is not currently available, but some archive.org links are provided above.
 
 
